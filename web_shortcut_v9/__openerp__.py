@@ -6,7 +6,7 @@
     'version': '9.0.1.0.0',
     'category': 'Web',
     'author': 'boubaker abdallah Odoo SA,Odoo Community Association (OCA)',
-    'website': 'http://openerp.com',
+    'website': 'http://boubaker.tk',
     'depends': [
         'base',
         'web'
