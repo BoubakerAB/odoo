@@ -5,7 +5,7 @@
     'name': 'Shortcut Menu',
     'version': '9.0.1.0.0',
     'category': 'Web',
-    'author': 'Odoo SA,Odoo Community Association (OCA)',
+    'author': 'boubaker abdallah Odoo SA,Odoo Community Association (OCA)',
     'website': 'http://openerp.com',
     'depends': [
         'base',
